@@ -8,7 +8,6 @@ function App() {
   return (
     <>
       <Navbar />
-      <h2>Movies Lib</h2>
       <Outlet />
     </>
   )
